@@ -222,3 +222,10 @@ export function getVersion(): string;
 
 /** Sets the preferred standard. */
 export function setStandard(standard: "2525" | "APP6"): boolean;
+
+export declare class ms {
+  static Symbol: typeof Symbol;
+  static addIcons(icons: any): void;
+}
+
+export const std2525d: any;
