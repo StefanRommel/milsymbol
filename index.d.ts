@@ -228,4 +228,5 @@ export declare class ms {
   static addIcons(icons: any): void;
 }
 
+export const std2525c: any;
 export const std2525d: any;
